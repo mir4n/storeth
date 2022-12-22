@@ -1,4 +1,4 @@
-module.exports = function () {
+module.exports = function Store() {
   const events = {};
 
   function listener(eventType) {

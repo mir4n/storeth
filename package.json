@@ -1,6 +1,6 @@
 {
   "name": "storeth",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "A state management library for javascript",
   "main": "lib/index.js",
   "directories": {
